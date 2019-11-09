@@ -7,7 +7,7 @@ Site Information: [UC Irvine ML Repo](http://archive.ics.uci.edu/ml/datasets/Hum
 
 Data: [Download File from UC Irvice ML Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-The code script run_analysis.R script perform the following:   
+The code script run_analysis.R performs the following:   
 
 1. Get the data from the source.
 2. Read the train data files: *X_train.txt*, *y_train.txt*, *subject_train.txt* and store to appropriate variables.
@@ -22,7 +22,7 @@ The code script run_analysis.R script perform the following:
 11. Merge data back to *labels*
 12. Set appropriate column names to *subjects* and *labels* as: *subject* and *activity*
 13. Combine *subjects*, *labels* and *data* to new variable: *combined*
-14. Load the required library *reshape*
+14. Load the required library *reshape2*
 15. Melt data using *combined* and by *subject* and *activity* to variable: *newData*
 16. Create the new final dataset: *tidyData*
 17. Export *tidyData* dataset to file: *tidyData.txt* (removed quotes from column names)
