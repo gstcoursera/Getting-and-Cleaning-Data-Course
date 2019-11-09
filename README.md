@@ -2,7 +2,7 @@
 
 Site Information: [UC Irvine ML Repo](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-Data Zip File Location: [Download File from UC Irvice ML Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+Data: [Download File from UC Irvice ML Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ## Project Goal
 
